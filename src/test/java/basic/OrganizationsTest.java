@@ -24,6 +24,8 @@ public class OrganizationsTest {
         //Identify the webelement and click on Organizations.
         driver.findElement(By.xpath("//a[text()='Organizations']")).click();
         
+        
+        
 		
 	}
 	
